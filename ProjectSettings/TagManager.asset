@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Darkspwan
+  - Wall
+  - Gate
+  - wall
+  - enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2976980471
+    locked: 0
+  - name: sgakra
+    uniqueID: 1767825077
+    locked: 0
+  - name: mashrom
+    uniqueID: 812624605
+    locked: 0
+  - name: Foreground
+    uniqueID: 1226334071
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Characters
+    uniqueID: 1607166149
+    locked: 0
+  - name: portal
+    uniqueID: 920302589
+    locked: 0
